@@ -1,1 +1,1 @@
-To do list created using Rails scaffolding. 
+To do list built using Rails scaffolding. 
